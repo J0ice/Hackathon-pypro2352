@@ -1,0 +1,8 @@
+Discord Bot making requirements:
+
+- VScode
+- Discord web / app
+- Discord developer web (untuk token / edit profil bot)
+- Tensorflow
+- Keras
+- API (menggunakan gambar)
